@@ -25,24 +25,9 @@ DialogWidth=720
 [Containments][243][Applets][244][Configuration][General]
 launchers=file:///var/lib/flatpak/app/org.jitsi.jitsi-meet/current/active/export/share/applications/org.jitsi.jitsi-meet.desktop,applications:org.kde.kdeconnect.app.desktop,applications:org.kde.discover.desktop,applications:onlyoffice-desktopeditors.desktop,applications:firefox.desktop,applications:org.kde.dolphin.desktop
 
-[Containments][243][Applets][374]
-immutability=1
-plugin=org.kde.plasma.panelspacer
-
-[Containments][243][Applets][374][Configuration][General]
-expanding=false
-length=5
-
-[Containments][243][Applets][375]
-immutability=1
-plugin=org.kde.plasma.panelspacer
-
-[Containments][243][Applets][375][Configuration][General]
-expanding=false
-length=5
 
 [Containments][243][General]
-AppletOrder=375;244;374
+AppletOrder=244
 
 [Containments][295]
 activityId=
